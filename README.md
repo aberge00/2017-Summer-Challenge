@@ -1,15 +1,15 @@
 # 2017-Summer-Challenge
 
-To complete the 2017 Summer Challenge the team shall design/build and demonstate a working robot to perform the follow tasks before August 12.
+To complete the 2017 Summer Challenge the team will design/build and demonstate a working robot to perform the follow tasks before August 12.
 
 Game layout: Picture (later)
 
 Field size: standard size 12'x12' carpeted floor
 Field pieces:
   1) 24 inch wide by 36 inch long bridge to pass over a USB cable snake pit.
-  2) A two level shelf to deposit retrieved lost relics.   
+  2) A two level shelf to deposit retrieved lost relics.  The shelf will have a hook to hnge climbers .
   3) Lost relics list:  Climber guys, blocks, and balls from season 2015-2016 season.
-  4) red colored floor tiles that will need to be avoided.
+  4) Red colored floor tiles that will need to be avoided.
 
 
 The Game Challenge:
@@ -25,12 +25,14 @@ Programming/Controls:
 2) At least two computers must be used to make programming.
 3) At least one sensor that is not ( gyro, color, compass ).
 4) Use new moto phones and Rev Robotics control system.
+5) Prepare a team submission for the Innovation in Control Award.
 
 Mechanical:
-1) Robot shall include at least one 3d printed part.
-2) Robot shall include at least one CNC part
+1) Robot shall include at least one functionality contributing 3d printed part.
+2) Robot shall include at least one functionality contributing CNC part
 3) Robot shall include a graber claw.
 4) NO duct tape will be aloud on the robot. (wow)
+
 
 
 
