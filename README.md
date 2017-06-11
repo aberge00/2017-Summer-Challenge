@@ -10,15 +10,18 @@ Field pieces:
   1) 24 inch wide by 36 inch long bridge to pass over a USB cable snake pit.
   2) A two level shelf to deposit retrieved lost relics.   
   3) Lost relics list:  Climber guys, blocks, and balls from season 2015-2016 season.
-  4) Colored floor tiles that will need to be avoided.
+  4) red colored floor tiles that will need to be avoided.
 
 
-Robot (Required features)
-1) Graber claw 
-2) NO duct tape will be aloud on the robot. (wow)
+The Game Challenge:
+Autonoumus: standard 30 Seconds
+The robot may be preloaded with 1 climber guy, 1 block.  Robo to navigate across the field, avoiding the red color tiles.  Deposit preloaded relics and any relics collected off the floor onto the shelf.   
+
+Lost relics will be placed on the playing field
 
 
-Programming:
+
+Programming/Controls:
 1) Source code must be maintined from Github
 2) At least two computers must be used to make programming.
 3) At least one sensor that is not ( gyro, color, compass ).
@@ -27,11 +30,12 @@ Programming:
 Mechanical:
 1) Robot shall include at least one 3d printed part.
 2) Robot shall include at least one CNC part
-3) 
+3) Robot shall include a graber claw.
+4) NO duct tape will be aloud on the robot. (wow)
 
 
 
-The Game:
+
 
 Pickup blocks and climbers from floor
 Have a textured/bumpy floor to navigate
