@@ -1,5 +1,4 @@
 # 2017-Summer-Challenge
-7314 Season Summer Challenge
 
 To complete the 2017 Summer Challenge the team shall design/build and demonstate a working robot to perform the follow tasks before August 12.
 
