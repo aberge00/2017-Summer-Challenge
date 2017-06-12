@@ -1,6 +1,6 @@
 # 2017-Summer-Challenge
 
-To complete the 2017 Summer Challenge the team will design/build and demonstate a working robot to perform the follow tasks before August 12.
+Design/build and demonstate a working robot to perform the follow tasks before August 26.
 
 Game layout: Picture (later)
 
