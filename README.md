@@ -6,7 +6,7 @@ Game layout: Picture (later)
 
 Field size: standard size 12'x12' carpeted floor
 Field pieces:
-  1) 24" wide x 36" long bridge to pass over a USB cable snake pit.
+  1) A bridge (24"W x 36"L to pass over a USB cable snake pit.
   2) A two level shelf to deposit retrieved lost relics.  The shelf will have a hook to hnge climbers .
   3) Lost relics list:  Climber guys, blocks, and balls from season 2015-2016 season.
   4) Red colored floor tiles that will need to be avoided.
