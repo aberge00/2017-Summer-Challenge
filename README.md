@@ -7,17 +7,17 @@ Game layout: Picture (later)
 Field size: standard size 12'x12' carpeted floor
 Field pieces:
   1) A bridge (24"W x 36"L) to pass over a USB cable snake pit.
-  2) A two level shelf to deposit retrieved lost relics.  The shelf will have a hook to hnge climbers .
-  3) Lost relics list:  Climber guys, blocks, and balls from season 2015-2016 season.
+  2) A three level storage vault to deposit retrieved lost relics.  The vault will include a hook to score climbers .
+  3) Lost relics list:  Climbers, blocks, and balls from season 2015-2016 season.
   4) Red colored floor tiles that will need to be avoided.
 
 
 The Game Challenge:
 Autonoumus: standard 30 Seconds
-The robot may be preloaded with 1 climber guy, 1 block/or ball.  Robo to navigate across the field, avoiding the red color tiles.  Deposit preloaded relics and any relics collected off the floor onto the shelf. Climbers may be hung on hook.  
+The robot may be preloaded with 1 climber, 1 block, 1 ball.  Robot to navigate across the field, avoiding the red color tiles.  Deposit preloaded relics and any relics collected off the floor into the storage vault. Climbers may be hung on hook.  
 
 
-Teleop: Collect relics will be placed on the playing field and return to shelf and hook.
+Teleop: Collect relics will be placed on the playing field and must be deposited into the vault.  There will be a limited number of scoring relics, so a team that deposits their reliic The best score Maximum time limit is 1.5 minutes, howevereturn to shelf and hook.
 
 
 
