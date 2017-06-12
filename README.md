@@ -20,8 +20,9 @@ The robot may be preloaded with 1 climber guy, 1 block/or ball.  Robo to navigat
 Teleop: Collect relics will be placed on the playing field and return to shelf and hook.
 
 
+
 Programming/Controls:
-1) Source code must be maintined from Github
+1) Source code must be stored/maintined from Github
 2) At least two developer computers must be used for programming.
 3) At least one sensor that is not ( gyro, color, compass ).
 4) Use new moto phones and Rev Robotics control system.
