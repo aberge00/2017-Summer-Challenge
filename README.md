@@ -1,15 +1,15 @@
 # 2017-Summer-Challenge
 
-Design/build and demonstate a working robot to perform the follow tasks before August 26.
+Design, build, and demonstate a working robot to perform the follow tasks before August 26.
 
 Game layout: Picture (later)
 
 Field size: standard size 12'x12' carpeted floor
 Field pieces:
   1) A bridge (24"W x 36"L) to pass over a USB cable snake pit.
-  2) A three level storage vault to deposit retrieved lost relics.  The vault will include a hook to score climbers .
+  2) A three level museum vault to deposit retrieved lost relics.  The museum vault will include a hook to score climbers .
   3) Lost relics list:  Climbers, blocks, and balls from season 2015-2016 season.
-  4) Red colored floor tiles that will need to be avoided.
+  4) Red Vortex of Flame that will need to be avoided.
 
 
 The Game Challenge:
@@ -20,7 +20,7 @@ Scoring:
 2) Middle Level Vault: 20 points/relic
 3) Top Level Vault: 40 points/relic
 4) Climber hook: 50 points/relic
-
+5) Cross the Red vortex of Flame  (-40) points
 
 Teleop: Collect relics that will be placed on the playing field and must be deposited into the vault.  There will be a limited number of scoring relics, so a team that deposits their reliic The best score Maximum time limit is 1.5 minutes, howevereturn to shelf and hook.
 Scoring:
@@ -28,6 +28,10 @@ Scoring:
 2) Middle Level Vault: 10 points/relic
 3) Top Level Vault: 20 points/relic
 4) Climber hook: 30 points/relic
+5) Cross the Red vortex of Flame (-40) points
+
+End Game: Collect the Golden Idol 50 points
+          Deposit the Golden idol into the vault 50 points.
 
 
 Programming/Controls:
