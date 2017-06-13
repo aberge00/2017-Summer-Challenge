@@ -6,7 +6,7 @@ Game layout: Picture (later)
 
 Field size: standard size 12'x12' carpeted floor
 Field pieces:
-  1) A bridge (24"W x 36"L) to pass over a USB cable snake pit.
+  1) A bridge to safely pass over a USB cable snake pit to reach a Golden Idol.
   2) A three level museum vault to deposit retrieved lost relics.  The museum vault will include a hook to score climbers .
   3) Lost relics list:  Climbers, blocks, and balls from season 2015-2016 season.
   4) Red Vortex of Flame that will need to be avoided.
@@ -14,7 +14,7 @@ Field pieces:
 
 The Game Challenge:
 Autonoumus: standard 30 Seconds
-The robot will be preloaded with 1 climber, 1 block, 1 ball.  Robot to navigate across the field, avoiding the red color tiles.  Deposit preloaded relics and any relics collected off the floor into the storage vault.
+The robot will be preloaded with 1 climber, 1 block, 1 ball.  Robot to navigate across the field, avoiding the Red Vortex of Flame.  Deposit preloaded relics and any relics collected off the floor into the storage vault.
 Scoring:
 1) Botom Level Vault: 10 point/relic
 2) Middle Level Vault: 20 points/relic
@@ -22,7 +22,8 @@ Scoring:
 4) Climber hook: 50 points/relic
 5) Cross the Red vortex of Flame  (-40) points
 
-Teleop: Collect relics that will be placed on the playing field and must be deposited into the vault.  There will be a limited number of scoring relics, so a team that deposits their reliic The best score Maximum time limit is 1.5 minutes, howevereturn to shelf and hook.
+Teleop: Collect relics that will be placed on the playing field and must be deposited into the vault.  There will be a limited number of scoring relics, so scoring placement may become important.
+
 Scoring:
 1) Botom Level Vault: 5 point/relic
 2) Middle Level Vault: 10 points/relic
@@ -30,8 +31,10 @@ Scoring:
 4) Climber hook: 30 points/relic
 5) Cross the Red vortex of Flame (-40) points
 
-End Game: Collect the Golden Idol 50 points
+End Game: Take possession of the Golden Idol 50 points
           Deposit the Golden idol into the vault 50 points.
+          
+       
 
 
 Programming/Controls:
