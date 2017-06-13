@@ -33,8 +33,10 @@ Scoring:
 
 End Game: Take possession of the Golden Idol 50 points
           Deposit the Golden idol into the vault 50 points.
-          
-       
+
+
+
+**Quest Requirements       
 
 
 Programming/Controls:
@@ -48,5 +50,5 @@ Mechanical:
 1) Robot shall include at least one functionality contributing 3d printed part.
 2) Robot shall include at least one functionality contributing CNC part
 3) Robot shall include a graber claw.
-4) NO duct tape will be aloud on the robot. (wow)
+4) NO duct tape will be allowed on the robot. (wow)
 
