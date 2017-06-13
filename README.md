@@ -16,18 +16,18 @@ The Game Challenge:
 Autonoumus: standard 30 Seconds
 The robot will be preloaded with 1 climber, 1 block, 1 ball.  Robot to navigate across the field, avoiding the red color tiles.  Deposit preloaded relics and any relics collected off the floor into the storage vault.
 Scoring:
-Botom Level Vault: 30 point/relic
-Middle Level Vault: 60 points/relic
-Top Level Vault: 80 points/relic
-Climber hook: 100 points/relic
+1) Botom Level Vault: 10 point/relic
+2) Middle Level Vault: 20 points/relic
+3) Top Level Vault: 40 points/relic
+4) Climber hook: 50 points/relic
 
 
 Teleop: Collect relics that will be placed on the playing field and must be deposited into the vault.  There will be a limited number of scoring relics, so a team that deposits their reliic The best score Maximum time limit is 1.5 minutes, howevereturn to shelf and hook.
 Scoring:
-Botom Level Vault: 10 point/relic
-Middle Level Vault: 20 points/relic
-Top Level Vault: 40 points/relic
-Climber hook: 50 points/relic
+1) Botom Level Vault: 5 point/relic
+2) Middle Level Vault: 10 points/relic
+3) Top Level Vault: 20 points/relic
+4) Climber hook: 30 points/relic
 
 
 Programming/Controls:
