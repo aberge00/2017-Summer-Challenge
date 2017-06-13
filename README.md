@@ -35,8 +35,7 @@ End Game: Take possession of the Golden Idol 50 points
           Deposit the Golden idol into the vault 50 points.
 
 
-
-**Quest Requirements       
+# Requirements       
 
 
 Programming/Controls:
